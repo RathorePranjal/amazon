@@ -193,4 +193,20 @@
     border: 2px solid black;
     height : 420px;
     width: 23%;
+    background-color: white;
+    padding: 20px 0px 7px;
+    margin-top: 15px;
+}
+.box-img1{
+    height: 300px;
+    background-repeat: no-repeat;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    background-size: contain;
+
+
+}
+.boxcontent{
+    padding: 10px;
+    color: rgb(32, 44, 126);
 }
