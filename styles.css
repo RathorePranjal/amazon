@@ -188,6 +188,7 @@
 .section{
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 .box{
     border: 2px solid black;
@@ -202,11 +203,11 @@
     background-repeat: no-repeat;
     margin-top: 16px;
     margin-bottom: 16px;
-    background-size: contain;
-
-
+    background-size: cover;
 }
 .boxcontent{
     padding: 10px;
+}
+.boxcontent p{
     color: rgb(32, 44, 126);
 }
