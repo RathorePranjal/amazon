@@ -211,3 +211,73 @@
 .boxcontent p{
     color: rgb(32, 44, 126);
 }
+.end{
+    height: 40px;
+    background-color: #161c23;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    margin-top: 15px;
+}
+.panel{
+    background-color:#232f3d;
+    color: white;
+    height: 330px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.panel-box{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+ul{
+    padding: 0%;
+}
+ul a{
+    font-size: 14px;
+    display: block;
+    margin-top: 7px;
+    color: #dddddd;
+}
+.panel-bottom{
+    height: 70px;
+    background-color: #232f3d;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 0.5px solid white;
+}
+.logo{
+    background-image: url("amazon_logo.png");
+    height: 50px;
+    width: 100px;
+    background-size: cover;
+}
+.cc{
+    background-color: #161c23;
+    color: white;
+    height: 76px;
+}
+.pages{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    padding-top: 25px;
+}
+.copy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    padding-top: 10px;
+}
+.pages a{
+    margin-left: 2px;
+    margin-right: 2px;
+}
